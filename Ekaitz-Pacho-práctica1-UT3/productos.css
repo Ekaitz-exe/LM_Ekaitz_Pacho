@@ -1,0 +1,22 @@
+.polaroid {
+    height: 250px;
+    background-color:blue;
+    padding:10px 10px 50px 10px;
+    border:1px solid black;
+    box-shadow:10px 10px 30px rgba(0, 0, 0, 0.8);
+}
+h1
+{
+    text-align: center;
+    color: blue;
+}
+.pi
+{
+    height: 200px;
+}
+footer
+{
+    background-color: red;
+    display: flex;
+    justify-content: right;
+}
